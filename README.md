@@ -1,2 +1,2 @@
 # PanBot
-PanBot: Cooking Up Your Perfect Discord Experience!
+PanBot: Cooking Up the Ultimate Discord Experience with Fun, Moderation, Economy, and More!
